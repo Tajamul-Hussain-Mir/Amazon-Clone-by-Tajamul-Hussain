@@ -1,4 +1,4 @@
-# Amazon-Clone-by-Tajamul-Hussain
+# Amazon-Clone-by-Tajamul-Hussain-Mir
 This is a Clone Of Amazon.com website using HTML and CSS
 
 # Amazon Clone
@@ -17,4 +17,5 @@ This project is a **frontend clone of Amazon** created using **HTML** and **CSS*
 
 ## Preview
 
-![Amazon Clone Preview](./Amazon(Preview).jpg)(./Amazon(Preview2).jpg)
+![Amazon Clone Preview](./Amazon(Preview).jpg)
+[](./Amazon(Preview2).jpg)
