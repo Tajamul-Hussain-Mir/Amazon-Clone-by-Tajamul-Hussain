@@ -18,4 +18,6 @@ This project is a **frontend clone of Amazon** created using **HTML** and **CSS*
 ## Preview
 
 ![Amazon Clone Preview](./Amazon(Preview).jpg)
-[](./Amazon(Preview2).jpg)
+
+Backside
+[Amazon](./Amazon(Preview2).jpg)
