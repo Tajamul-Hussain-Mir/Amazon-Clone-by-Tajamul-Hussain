@@ -20,3 +20,5 @@ This project is a **frontend clone of Amazon** created using **HTML** and **CSS*
 ![Amazon Clone Preview](./Amazon(Preview).jpg)
 
 [Amazon](./Amazon(Preview2).jpg)
+
+[Flowchart](https://github.com/Tajamul-Hussain-Mir/Amazon-Clone-by-Tajamul-Hussain/blob/main/copilot_image_1752567145643.jpeg)
